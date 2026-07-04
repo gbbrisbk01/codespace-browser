@@ -1,0 +1,4 @@
+{
+  "postCreateCommand": "bash codespace-browser/install.sh || bash install.sh",
+  "postStartCommand": "bash codespace-browser/start.sh || bash start.sh"
+}
